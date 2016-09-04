@@ -8,6 +8,9 @@
 |[Python](#python)|
 |[Machine Learning](#machine-learning)|
 |[Data Structures](#data-structures)|
+|[Big Data](#big-data)|
+|[Software Engineering](#software-engineering)|
+|[Mathematics](#mathematics)|
 
 
 ### Hashing
@@ -35,6 +38,18 @@
 ### Machine Learning
 * [IMPLEMENTING A NEURAL NETWORK FROM SCRATCH IN PYTHON – AN INTRODUCTION](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 * [Understanding the Bias Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+* [Neural Network Architectures](http://culurciello.github.io/tech/2016/06/04/nets.html)
 
 ### Data Structures
 * [A Memory-Efficient Doubly Linked List](http://www.linuxjournal.com/article/6828)
+
+### Big Data
+* [400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.y6ntjibtb)
+
+
+### Software Engineering
+* [Persistent Finite State Machines in Python](https://engineering.quora.com/Persistent-Finite-State-Machines-in-Python)
+
+
+### Mathematics
+* [The Math Myth] (http://econlog.econlib.org/archives/2016/09/the_math_myth.html)
