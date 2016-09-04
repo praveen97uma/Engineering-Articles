@@ -4,7 +4,7 @@
 |---|
 |[Hashing](#hashing)|
 |[Distributed Systems](#distributed-systems)|
-|[React](#react)]|
+|[React](#react)|
 |[Python](#python)|
 |[Machine Learning](#machine-learning)|
 |[Data Structures](#data-structures)|
