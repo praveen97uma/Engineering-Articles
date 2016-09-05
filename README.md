@@ -26,7 +26,9 @@
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
 * [Round Robin Databases](https://jawnsy.wordpress.com/2010/01/08/round-robin-databases/)
-
+* [Cassandra Architecture](http://docs.datastax.com/en/cassandra/2.1/cassandra/architecture/architectureIntro_c.html)
+* [HBase Architecture](https://www.mapr.com/blog/in-depth-look-hbase-architecture)
+* [HDFS Architecture](http://www.aosabook.org/en/hdfs.html)
 
 ### React
 * [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
