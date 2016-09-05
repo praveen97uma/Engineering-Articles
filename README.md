@@ -11,7 +11,7 @@
 |[Big Data](#big-data)|
 |[Software Engineering](#software-engineering)|
 |[Mathematics](#mathematics)|
-
+|[Misc](#misc)|
 
 ### Hashing
 * [Consistent Hashing](http://blog.carlosgaldino.com/consistent-hashing.html)
@@ -58,3 +58,7 @@
 ### Mathematics
 * [The Math Myth] (http://econlog.econlib.org/archives/2016/09/the_math_myth.html)
 * [HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 3](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3)
+
+### Misc
+
+* [LifeLessons from an 80 year old man](https://medium.com/bigger-picture/lifelessons-advice-from-an-80-year-old-man-799510fb0f91)
