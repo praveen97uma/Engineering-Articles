@@ -53,3 +53,4 @@
 
 ### Mathematics
 * [The Math Myth] (http://econlog.econlib.org/archives/2016/09/the_math_myth.html)
+* [HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 3](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3)
