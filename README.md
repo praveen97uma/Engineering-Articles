@@ -40,6 +40,10 @@
 * [Understanding the Bias Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 * [Neural Network Architectures](http://culurciello.github.io/tech/2016/06/04/nets.html)
 
+#### Clustering
+* [A Tutorial on Clustering Algorithms](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/kmeans.html)
+* [Recommender Systems](http://www.recsyswiki.com/wiki/Main_Page)
+
 ### Data Structures
 * [A Memory-Efficient Doubly Linked List](http://www.linuxjournal.com/article/6828)
 
