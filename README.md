@@ -33,6 +33,7 @@
 ### React
 * [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
 * [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
+* [Webpack: The Missing Tutorial](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/36-webpack/README.md)
 
 ### Python
 * [Iterators, Generators and Streams](https://inst.eecs.berkeley.edu/~cs61a/fa12/disc/disc12.pdf)
