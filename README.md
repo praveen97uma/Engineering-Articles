@@ -49,7 +49,7 @@
 
 ### Software Engineering
 * [Persistent Finite State Machines in Python](https://engineering.quora.com/Persistent-Finite-State-Machines-in-Python)
-
+* [Lessons Learned From Software Rewrites](http://alexmartins.me/2016/07/28/lessons-learned-from-software-rewrites.html)
 
 ### Mathematics
 * [The Math Myth] (http://econlog.econlib.org/archives/2016/09/the_math_myth.html)
