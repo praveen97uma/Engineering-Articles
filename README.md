@@ -65,7 +65,7 @@
 ### Mathematics
 * [The Math Myth] (http://econlog.econlib.org/archives/2016/09/the_math_myth.html)
 * [HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 3](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3)
-
+* [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 
 ### Javascript
 * [Three JavaScript performance fundamentals that make Bluebird fast](https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/)
