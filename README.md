@@ -12,7 +12,7 @@
 |[Software Engineering](#software-engineering)|
 |[Mathematics](#mathematics)|
 |[Javascript](#javascript)|
-|[Misc](#misc)|
+|[Philosophical](#philosphical)|
 
 ### Hashing
 * [Consistent Hashing](http://blog.carlosgaldino.com/consistent-hashing.html)
@@ -28,6 +28,8 @@
 * [Round Robin Databases](https://jawnsy.wordpress.com/2010/01/08/round-robin-databases/)
 * [HBase Architecture](https://www.mapr.com/blog/in-depth-look-hbase-architecture)
 * [HDFS Architecture](http://www.aosabook.org/en/hdfs.html)
+* [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
+* [Event sourcing, CQRS, stream processinghttp://andrewhfarmer.com/react-ajax-best-practices/ and Apache Kafka: What’s the Connection](http://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/)
 
 #### Cassandra
 * [Cassandra Architecture](http://docs.datastax.com/en/cassandra/2.1/cassandra/architecture/architectureIntro_c.html)
@@ -37,6 +39,10 @@
 * [Pros and Cons of using immutability with React.js](http://reactkungfu.com/2015/08/pros-and-cons-of-using-immutability-with-react-js/)
 * [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know)
 * [Webpack: The Missing Tutorial](https://github.com/shekhargulati/52-technologies-in-2016/blob/master/36-webpack/README.md)
+* [React Enlightenment](http://www.reactenlightenment.com/basic-react-components/6.1.html)
+* [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
+* [A Guide For Building A React Redux CRUD App](https://medium.com/@rajaraodv/a-guide-for-building-a-react-redux-crud-app-7fe0b8943d0f)
+* [Building your second React.js App](https://medium.com/learning-new-stuff/building-your-second-react-js-app-eb66924b3774)
 
 ### Python
 * [Iterators, Generators and Streams](https://inst.eecs.berkeley.edu/~cs61a/fa12/disc/disc12.pdf)
@@ -66,10 +72,12 @@
 * [The Math Myth] (http://econlog.econlib.org/archives/2016/09/the_math_myth.html)
 * [HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 3](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3)
 * [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+* [Exploring weird maths with code](http://alexpounds.com/blog/2016/09/04/exploring-weird-maths-with-code)
 
 ### Javascript
 * [Three JavaScript performance fundamentals that make Bluebird fast](https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/)
 
-### Misc
+### Philosophical
 
 * [LifeLessons from an 80 year old man](https://medium.com/bigger-picture/lifelessons-advice-from-an-80-year-old-man-799510fb0f91)
+* [What I Didn't Understand as a Junior Programmer](http://blog.alexnaraghi.com/what-i-didnt-understand-as-a-junior-programmer)
