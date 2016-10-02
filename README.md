@@ -16,6 +16,7 @@
 
 ### Hashing
 * [Consistent Hashing](http://blog.carlosgaldino.com/consistent-hashing.html)
+* [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 * [Lecture Notes on Hash Tables](https://www.cs.cmu.edu/~fp/courses/15122-f10/lectures/11-hashtables.pdf) 15-122 Principles of Imperative Computation
 * [Hash Tables—Theory and Practice](http://www.linuxjournal.com/content/hash-tables%E2%80%94theory-and-practice)
 * [Distributed Hash Tables, Part I](http://www.linuxjournal.com/article/6797)
@@ -30,6 +31,7 @@
 * [HDFS Architecture](http://www.aosabook.org/en/hdfs.html)
 * [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html)
 * [Event sourcing, CQRS, stream processinghttp://andrewhfarmer.com/react-ajax-best-practices/ and Apache Kafka: What’s the Connection](http://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/)
+* [Sharding Pinterest: How we scaled our MySQL fleet](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet/)
 
 #### Cassandra
 * [Cassandra Architecture](http://docs.datastax.com/en/cassandra/2.1/cassandra/architecture/architectureIntro_c.html)
