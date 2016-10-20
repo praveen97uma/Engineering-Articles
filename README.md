@@ -13,6 +13,7 @@
 |[Mathematics](#mathematics)|
 |[Javascript](#javascript)|
 |[Philosophical](#philosphical)|
+|[Map Reduce](#map-reduce)|
 
 ### Hashing
 * [Consistent Hashing](http://blog.carlosgaldino.com/consistent-hashing.html)
@@ -83,3 +84,6 @@
 
 * [LifeLessons from an 80 year old man](https://medium.com/bigger-picture/lifelessons-advice-from-an-80-year-old-man-799510fb0f91)
 * [What I Didn't Understand as a Junior Programmer](http://blog.alexnaraghi.com/what-i-didnt-understand-as-a-junior-programmer)
+
+### Map Reduce
+* [MAPREDUCE PATTERNS, ALGORITHMS, AND USE CASES](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
