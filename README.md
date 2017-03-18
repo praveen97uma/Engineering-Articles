@@ -24,6 +24,7 @@
 
 
 ### Distributed Systems
+* [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [You Can't Sacrifice Partition Tolerance](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
 * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
 * [Notes on Distributed Systems for Young Bloods](https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/)
@@ -49,12 +50,14 @@
 
 ### Python
 * [Iterators, Generators and Streams](https://inst.eecs.berkeley.edu/~cs61a/fa12/disc/disc12.pdf)
-
+* [CPython Internals](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 
 ### Machine Learning
 * [IMPLEMENTING A NEURAL NETWORK FROM SCRATCH IN PYTHON – AN INTRODUCTION](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 * [Understanding the Bias Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
 * [Neural Network Architectures](http://culurciello.github.io/tech/2016/06/04/nets.html)
+* [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers/blob/master/README.md)
+* [Machine Learning Course](https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/)
 
 #### Clustering
 * [A Tutorial on Clustering Algorithms](http://home.deib.polimi.it/matteucc/Clustering/tutorial_html/kmeans.html)
@@ -62,6 +65,18 @@
 
 ### Data Structures
 * [A Memory-Efficient Doubly Linked List](http://www.linuxjournal.com/article/6828)
+* [CodeChef-Data Structures and Algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms)
+* [Binary Search Reconsidered](http://www.solipsys.co.uk/new/BinarySearchReconsidered.html?ThinkingAboutRecursion)
+* [Knapsack Problems](http://www.or.deis.unibo.it/kp/KnapsackProblems.pdf)
+* [WCIPeg](http://wcipeg.com/wiki/Main_Page)
+* [Algorithms that Exploit State](http://papl.cs.brown.edu/2014/Algorithms_That_Exploit_State.html)
+* [Dynamic Programming - Combination Sum Problem](http://www.codeguru.com/cpp/cpp/algorithms/combinations/article.php/c15409/Dynamic-Programming-Combination-Sum-Problem.htm)
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [Why Recursive Data Structures](http://raganwald.com/2016/12/27/recursive-data-structures.html)
+* [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf)
+* [Competitive Programmers Handbook](https://cses.fi/book.pdf)
+* [Algorithmic Mathematics](https://cses.fi/book.pdf)
+* [Discrete Structures](http://cglab.ca/~michiel/DiscreteStructures/DiscreteStructures.pdf)
 
 ### Big Data
 * [400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs](https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.y6ntjibtb)
@@ -76,9 +91,15 @@
 * [HOW TO LEARN ADVANCED MATHEMATICS WITHOUT HEADING TO UNIVERSITY - PART 3](https://www.quantstart.com/articles/How-to-Learn-Advanced-Mathematics-Without-Heading-to-University-Part-3)
 * [Eigenvectors and Eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
 * [Exploring weird maths with code](http://alexpounds.com/blog/2016/09/04/exploring-weird-maths-with-code)
+* [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+* [Intro to Probabality](https://www.probabilitycourse.com/)
+* [Intro to Prob](https://math.dartmouth.edu/~prob/prob/prob.pdf)
 
 ### Javascript
 * [Three JavaScript performance fundamentals that make Bluebird fast](https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/)
+
+### Operating Systems
+* [OS: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ### Philosophical
 
@@ -87,3 +108,6 @@
 
 ### Map Reduce
 * [MAPREDUCE PATTERNS, ALGORITHMS, AND USE CASES](https://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/)
+
+### Networking
+* [Building blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
