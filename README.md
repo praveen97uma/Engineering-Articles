@@ -14,6 +14,7 @@
 |[Javascript](#javascript)|
 |[Philosophical](#philosphical)|
 |[Map Reduce](#map-reduce)|
+|[System Design] (#system-design)|
 
 ### Hashing
 * [Consistent Hashing](http://blog.carlosgaldino.com/consistent-hashing.html)
@@ -111,3 +112,13 @@
 
 ### Networking
 * [Building blocks of TCP](https://hpbn.co/building-blocks-of-tcp/)
+
+### System Design
+* ## Rate Limiting
+      * https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/
+      * https://cloud.google.com/solutions/rate-limiting-strategies-techniques
+      * https://hechao.li/2018/06/25/Rate-Limiter-Part1/
+      * https://hechao.li/2018/06/27/Rate-Limiter-Part2/
+      * https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/
+      * https://arpit.substack.com/p/sliding-window-based-rate-limiter
+      * https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/
