@@ -115,10 +115,10 @@
 
 ### System Design
 * ## Rate Limiting
-      * (https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
-      * (https://cloud.google.com/solutions/rate-limiting-strategies-techniques)
-      * https://hechao.li/2018/06/25/Rate-Limiter-Part1/
-      * https://hechao.li/2018/06/27/Rate-Limiter-Part2/
-      * https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/
-      * https://arpit.substack.com/p/sliding-window-based-rate-limiter
-      * https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/
+      * [An alternative approach to rate limiting](https://www.figma.com/blog/an-alternative-approach-to-rate-limiting/)
+      * [Rate limiting strategies](https://cloud.google.com/solutions/rate-limiting-strategies-techniques)
+      * [Rate limiter Part 1](https://hechao.li/2018/06/25/Rate-Limiter-Part1/)
+      * [Rate limiter Part 2](https://hechao.li/2018/06/27/Rate-Limiter-Part2/)
+      * [Everything you need to know about api rate limiting](https://nordicapis.com/everything-you-need-to-know-about-api-rate-limiting/)
+      * [Sliding window based rate limiter](https://arpit.substack.com/p/sliding-window-based-rate-limiter)
+      * [How to design a scalable rate limiting algorithm](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
